@@ -1,4 +1,4 @@
-# Case Study: Simulador Corporativo Web (Engenharia de Software, PO & QA)
+#  Simulador Corporativo Web (Engenharia de Software, PO & QA)
 > **Nota de Confidencialidade:** Este software possui propriedade intelectual protegida e código-fonte fechado. Este repositório serve como portfólio técnico para demonstrar minha atuação em Engenharia de Software (Arquitetura e Motores de Cálculo), Desenvolvimento Full Stack, Product Ownership e Engenharia de Qualidade (QA).
 
 ---
